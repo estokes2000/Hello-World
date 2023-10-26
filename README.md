@@ -3,7 +3,7 @@
 *This is an example of a README file for a sample project*
 
 # Project Title
-** Here is my sample project title **
+**Here is my sample project title**
 
 # Description
 Here I would put a description of the project.
@@ -18,7 +18,7 @@ Here I would explain how to run the program.
 - file 3 used
 
 # Additional Documentation
-Addional ==documentation== used.
+Addional documentation used.
 
 # Versioning
 Versioning used in project.
